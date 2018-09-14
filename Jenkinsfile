@@ -1,4 +1,4 @@
-iinode{
+node{
     stage('SCM') {
         git 'https://github.com/pavanraj12/game-of-life.git'
     }
